@@ -1,4 +1,5 @@
 transformers
+datasets
 accelerate>=0.31
 dask[complete]>=2023
 seqeval[gpu]
